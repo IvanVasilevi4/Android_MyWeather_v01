@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">МояПогода_0.1</string>
+    <string name="city">Москва</string>
+    <string name="switch1">Фон</string>
+</resources>
