@@ -22,7 +22,7 @@
         android:layout_gravity="right"
         android:onClick="onClickBackground"
         android:textSize="22sp"
-        android:text="@string/switch1"/>
+        android:text="@string/switch1" />
 
     <ImageView
         android:id="@+id/imageView"
